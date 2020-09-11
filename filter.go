@@ -1,4 +1,4 @@
-package gorm-filter
+package filter
 
 import (
 	"errors"
